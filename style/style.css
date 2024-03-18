@@ -1,0 +1,46 @@
+body {
+    background-color: black;
+    color: white;
+}
+
+h1 {
+    color: lightcoral;
+    text-align: center;
+    font-size: 40px;
+}
+
+h2 {
+    color: lightgreen;
+    text-align: left;
+    font-size: 30px;
+}
+
+p {
+    color: white;
+    font-size: 20px;
+}
+
+ul {
+    font-size: 20px;
+}
+
+a {
+    color: lightgreen;
+}
+
+img {
+    height: 300px;
+    width: auto;
+}
+
+#pes {
+    text-decoration: underline;
+    color: lightskyblue;
+    cursor: pointer;
+}
+
+#pes:hover {
+    text-decoration: overline;
+    color: lightsalmon;
+    font-size: 35px;
+}
